@@ -25,5 +25,10 @@ footer {
     background-color: rgb(244, 200, 4);
     padding: 10px;
     border-radius: 20px;
-    height:120px;
+    height:140px;
+}
+
+.footerDivs {
+    float: left;
+    margin-left: 20px;    
 }
