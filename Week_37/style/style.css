@@ -18,16 +18,17 @@ body {
 }
 
 .navLink {
-    color: black;
+    color: gold;
     text-decoration: none;
     font-size: 20px;
     padding:10px;
-    background-color: rgb(243, 182, 52);
+    background-color: rgb(41, 7, 7);
     border-radius: 10px;
 }
 
 .navLink:hover {
     background-color: rgb(234, 167, 42);
+    color:black;
 }
 
 .images {
@@ -35,6 +36,7 @@ body {
     border-color: black;
     border-width: 4px;
     border-style: solid;
+    width: 400px;
 }
 
 footer {
@@ -51,7 +53,7 @@ footer {
 
 main {
     text-align: center;
-    width: 400px;
+    width: 450px;
     background-color: rgb(246, 193, 3);
     padding: 20px;
     border-radius: 20px;
@@ -77,13 +79,13 @@ main {
 }
 
 #arrow {
-    background-color: rgb(31, 31, 27);
+    background-color: rgb(41, 7, 7);
     width: 70px;
     border-radius: 50%;
 }
 
 #arrow:hover {
-    width: 80px;
+    background-color: gold;
 }
 
 #smallNavBar {
